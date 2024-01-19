@@ -7,7 +7,7 @@ global _start
 
 _start:
 	; numero 1122 em hexa
-	mov rax, 0x1122334455667788
+	mov rax, 0x10012343F
 
 	mov rdi, 1
 	mov rdx, 1
